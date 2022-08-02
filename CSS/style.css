@@ -199,3 +199,8 @@ h1 {
     background-color: var(--light-blue);
 }
 
+footer p {
+    color:rgb(2, 84, 161);
+    text-align: center;
+    font-size: 12px;
+}
